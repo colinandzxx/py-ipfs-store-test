@@ -1,0 +1,4 @@
+venv
+py-ipfs-http-client
+test
+__pycache__
