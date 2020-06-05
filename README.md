@@ -1,4 +1,4 @@
-# py-ipfs-store-middleware
+# py-ipfs-store-test
 
 ## Development Setting
 ```sh
